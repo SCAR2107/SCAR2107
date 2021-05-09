@@ -133,10 +133,8 @@
 <br />
 
 ## More about me:
-<p>
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=scar2107&show_icons=true&theme=tokyonight" alt=""/>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=scar2107&theme=dark" alt="scar2107" />
-</p>
+<img align="" src="https://github-readme-stats.vercel.app/api?username=scar2107&show_icons=true&theme=tokyonight" alt=""/>
+<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=scar2107&theme=dark" alt="scar2107" />
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scar2107" alt="alapan's most used langauges"/>-->
 
 
